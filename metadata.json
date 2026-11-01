@@ -1,0 +1,6 @@
+{
+  "name": "ETH/USDT 10x Long Grid Bot Workstation",
+  "description": "Professional 10x Long ETH/USDT futures grid trading bot with Volume Profile, 1h trend filter, consolidation guards, strict $5 margin caps, and historical backtesting auto-tuner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
